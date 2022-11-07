@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+	<feature id="dev.drozd.dbml4e.feature" version="0.0.0">
+		<category name="main"/>
+	</feature>
+	<feature id="dev.drozd.dbml4e.feature.source" version="0.0.0">
+		<category name="main.source"/>
+	</feature>
+	<category-def name="main" label="DBML4E"/>
+	<category-def name="main.source" label="DBML4E (Sources)"/>
+</site>

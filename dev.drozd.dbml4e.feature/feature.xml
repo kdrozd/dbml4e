@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature id="dev.drozd.dbml4e.feature"
+	label="DBML4E Feature "
+	version="1.0.0.qualifier">
+	<plugin
+			id="dev.drozd.dbml4e"
+			download-size="0"
+			install-size="0"
+			version="0.0.0"
+			unpack="false"/>
+	<plugin
+			id="dev.drozd.dbml4e.ide"
+			download-size="0"
+			install-size="0"
+			version="0.0.0"
+			unpack="false"/>
+	<plugin
+			id="dev.drozd.dbml4e.ui"
+			download-size="0"
+			install-size="0"
+			version="0.0.0"
+			unpack="false"/>
+</feature>

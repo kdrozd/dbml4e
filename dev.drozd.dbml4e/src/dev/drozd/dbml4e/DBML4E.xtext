@@ -1,0 +1,9 @@
+grammar dev.drozd.dbml4e.DBML4E with org.eclipse.xtext.common.Terminals
+
+generate dBML4E "http://www.drozd.dev/dbml4e/DBML4E"
+
+Model:
+	greetings+=Greeting*;
+	
+Greeting:
+	'Hello' name=ID '!';
